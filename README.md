@@ -3,10 +3,8 @@
 Bu proje, Python dili kullanılarak temel **veri yapılarının** (Linked List ve Stack) mantığını öğretmek amacıyla geliştirilmiştir.  
 Menü tabanlı bir konsol uygulamasıdır.
 
-## 📌 İçerik
-
+##  İçerik
 Projede aşağıdaki veri yapıları bulunmaktadır:
-
 - Tek Bağlantılı Liste
 - Çift Bağlantılı Liste
 - Dairesel Bağlantılı Liste
@@ -17,17 +15,11 @@ Her veri yapısı için:
 - Silme
 - Arama
 - Listeleme  
-
 işlemleri desteklenmektedir.
 
----
-
-## 🛠 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - Python 3.x
 - Nesne Yönelimli Programlama (OOP)
 
----
-
-## 📂 Dosya Yapısı
-
+##Dosya Yapısı
